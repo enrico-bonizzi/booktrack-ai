@@ -126,7 +126,7 @@ booktrack-ai/
 ### 🐳 Com Docker
 
 ```bash
-git clone https://github.com/<seu-usuario>/booktrack-ai.git
+git clone https://github.com/enrico-bonizzi/booktrack-ai.git
 cd booktrack-ai
 cp .env.example .env
 # Edite .env e preencha: GOOGLE_OAUTH_CLIENT_ID, JWT_SECRET, ANTHROPIC_API_KEY (opcional)
@@ -228,7 +228,7 @@ MIT — veja [`LICENSE`](LICENSE).
 **Enrico Bonizzi**
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/enricobonizzi/)
-- 💻 [GitHub](https://github.com/enricobonizzi)
+- 💻 [GitHub](https://github.com/enrico-bonizzi)
 - ✉️ enricobonizzi@gmail.com
 
 > Desenvolvedor de Software no Grupo Sifra • Pós-graduado em Gestão e Análise Estratégica de Dados

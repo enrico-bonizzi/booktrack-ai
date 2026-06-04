@@ -11,7 +11,7 @@ git commit -m "feat: estrutura inicial do BookTrack AI"
 git branch -M main
 
 # Crie o repositório vazio em https://github.com/new com o nome "booktrack-ai"
-git remote add origin https://github.com/enricobonizzi/booktrack-ai.git
+git remote add origin https://github.com/enrico-bonizzi/booktrack-ai.git
 git push -u origin main
 ```
 
